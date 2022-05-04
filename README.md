@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Kaiky Elber
 
-- 🐱‍👤 Atualmente estudando Desenvolvimento Java Back-end
+- 🐱‍👤 Atualmente estudando Desenvolvimento Web
 - 💬 Contate-me no Discord: Kaiky #8123
 - 😄 Pronouns: ele/dele
 <br>
