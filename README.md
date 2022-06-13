@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Kaiky Elber
 
-- 🐱‍👤 Atualmente estudando Desenvolvimento Web
+- 🐱‍👤 Atualmente estudando Desenvolvimento Web Full-stack 
 - 💬 Contate-me no Discord: Kaiky #8123
 - 😄 Pronouns: ele/dele
 <br>
